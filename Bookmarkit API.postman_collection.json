@@ -1,0 +1,45 @@
+{
+	"id": "9e3aea62-cac4-29ed-5eea-8470f0e0c37b",
+	"name": "Bookmarkit API",
+	"description": "",
+	"order": [
+		"48f639d0-0dcb-0b2c-42bb-258ea6c79e27"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1597338450787,
+	"owner": "12365929",
+	"public": false,
+	"requests": [
+		{
+			"id": "48f639d0-0dcb-0b2c-42bb-258ea6c79e27",
+			"headers": "token: FEBB222BFE78A\n",
+			"headerData": [
+				{
+					"key": "token",
+					"value": "FEBB222BFE78A",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost/scripts/bookmarkit.php",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "9e3aea62-cac4-29ed-5eea-8470f0e0c37b",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://localhost/scripts/bookmarkit.php",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1597338453905,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
